@@ -2,3 +2,4 @@ keyboard
 cpu
 mouse
 speaker
+mouse 2
